@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://i1.sndcdn.com/artworks-000214471023-7i1b6g-original.jpg"},
+            'thumbnail': "https://i1.sndcdn.com/avatars-ZQf3zMBSbtZsL8iF-M6WCkQ-original.jpg"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://i1.sndcdn.com/artworks-000214471023-7i1b6g-original.jpg"},
+            'thumbnail': "https://i1.sndcdn.com/avatars-ZQf3zMBSbtZsL8iF-M6WCkQ-original.jpg"},
     ]
     return items
 
